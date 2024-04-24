@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Ahnaf Tajwar. I have finished my Master's in Genetic Engineering and Biotechnology in University of Dhaka.
-I know a bit of Python, C (and C++), Perl, R and SQL. I am currently working on expanding my knowledge of Python. I am also interested in web development and am actively looking for a good web development course.
+From childhood, I have been captivated by the hidden mysteries behind the laws governing the universe. My insatiable thirst for understanding nature and its processes led me to pursue science at the SSC and HSC levels, where I developed a profound affinity for biology. The prospect of comprehending and enhancing life through genetic manipulation intrigued me, prompting me to pursue degrees in Genetic Engineering and Biotechnology.
+
+My university courses provided me with a comprehensive understanding of molecular biology, biotechnology, genetics, microbiology, and biochemistry. My research experience spans both dry and wet lab procedures. Beyond my regular studies, I developed a keen interest in various aspects of technology, particularly information technology. While I had some experience with Python programming during my teenage years, I expanded my repertoire to include programming and scripting languages such as R, Perl, and C during my sophomore and junior years.
+
+In addition to my academic pursuits, which emphasized the creation and enhancement of written documents, presentation slides, and spreadsheets, I have engaged in a significant amount of creative writing, transcription, and translation, fueled by my pursuit of knowledge from diverse mediums. Occasionally, I expanded my artistic side to the graphical space by exploring Adobe Photoshop and Adobe Illustrator. My love for open-source software has driven me to learn Linux and UNIX-based operating systems, and over time, I have honed my skills in LibreOffice, GIMP, Inkscape, and many other FOSS products.
+
+My quest for excellence and high-quality work have shaped me into developing a perfectionist streak. I take great pride in my dynamic and adaptable nature. Given suitable time and motivation, I can gracefully mold myself to face any circumstance. I cannot envision a situation where I would be confined to a small subset of ideas instead of developing a multidisciplinary understanding.
