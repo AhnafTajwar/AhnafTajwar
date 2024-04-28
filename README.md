@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-From childhood, I have been captivated by the hidden mysteries behind the laws governing the universe. My insatiable thirst for understanding nature and its processes led me to pursue science at the SSC and HSC levels, where I developed a profound affinity for biology. The prospect of comprehending and enhancing life through genetic manipulation intrigued me, prompting me to pursue degrees in Genetic Engineering and Biotechnology.
+Due to my habit of reading developed in childhood, I have been captivated by the hidden mysteries behind the laws governing the universe. My insatiable thirst for understanding nature and its processes led me to pursue science at the SSC and HSC levels, where I developed a profound affinity for biology. The prospect of comprehending and enhancing life through genetic manipulation intrigued me, prompting me to pursue degrees in Genetic Engineering and Biotechnology.
 
 My university courses provided me with a comprehensive understanding of molecular biology, biotechnology, genetics, microbiology, and biochemistry. My research experience spans both dry and wet lab procedures. Beyond my regular studies, I developed a keen interest in various aspects of technology, particularly information technology. While I had some experience with Python programming during my teenage years, I expanded my repertoire to include programming and scripting languages such as R, Perl, and C during my sophomore and junior years.
 
